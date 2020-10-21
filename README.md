@@ -23,7 +23,7 @@ SmartCuisine is a software that can analyse the groceries you put in your fridge
 ## Built with
 
 The following technologies were used in order to built this project:
-  * [Java JDK 8](https://www.oracle.com/ca-en/java/technologies/javase/javase-jdk8-downloads.html)
+  * [JDK 8](https://www.oracle.com/ca-en/java/technologies/javase/javase-jdk8-downloads.html)
   * [Google Cloud API](https://cloud.google.com/apis)
   * [Spoonacular API](https://spoonacular.com/food-api)
 
